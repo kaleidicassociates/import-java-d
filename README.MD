@@ -7,3 +7,5 @@ This is internal code I have not yet cleaned up, written to solve the problem at
 will be required to make it work generically.  I am putting it up here in case anyone has time
 and interest to do so.
 
+
+Credit existing work - see android examples by Joachim.
