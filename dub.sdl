@@ -1,0 +1,6 @@
+name "import-java-d"
+description "WIP: tool for being able to import Java classes and call them from D"
+authors "Laeeth Isharc"
+copyright "Copyright © 2018, Laeeth Isharc"
+license "boost"
+targetType "library"

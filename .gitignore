@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+autowrap-java.so
+autowrap-java.dylib
+autowrap-java.dll
+autowrap-java.a
+autowrap-java.lib
+autowrap-java-test-*
+*.exe
+*.o
+*.obj
+*.lst
